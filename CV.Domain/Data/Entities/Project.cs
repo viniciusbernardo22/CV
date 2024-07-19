@@ -1,6 +1,6 @@
-﻿using CV.Domain.Entities.Base;
+﻿using CV.Domain.Data.Entities.Base;
 
-namespace CV.Domain.Entities;
+namespace CV.Domain.Data.Entities;
 
 public class Project : Entity
 {

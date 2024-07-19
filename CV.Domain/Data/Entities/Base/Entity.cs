@@ -1,4 +1,4 @@
-﻿namespace CV.Domain.Entities.Base;
+﻿namespace CV.Domain.Data.Entities.Base;
 
 public abstract class Entity
 {
