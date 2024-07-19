@@ -9,4 +9,7 @@ public class CvDbContext(DbContextOptions<CvDbContext> options) : DbContext(opti
 
     public DbSet<ContactInformation> ContactInformations { get; set; }
     
+    public DbSet<Typer> Typers { get; set; }
+    
+    public DbSet<Experience> Experiences { get; set; }
 }
